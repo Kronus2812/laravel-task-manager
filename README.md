@@ -62,7 +62,7 @@ Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional
 
 ---
 
-## ⚙️ Instalación
+##  Instalación
 
 ### Requisitos previos
 - PHP 8.2 o superior

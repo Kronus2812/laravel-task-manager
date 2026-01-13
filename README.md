@@ -302,19 +302,3 @@ Repositorio: [github.com/Kronus2812/Laravel-Task-Manager](https://github.com/Kro
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## 🙏 Agradecimientos
-
-- [Laravel](https://laravel.com/) por el excelente framework
-- [Tailwind CSS](https://tailwindcss.com/) por los estilos
-- [Laravel Breeze](https://laravel.com/docs/11.x/starter-kits#laravel-breeze) por la autenticación
-- Comunidad de Laravel en español
-
----
-
-⭐ **Si este proyecto te fue útil, no olvides darle una estrella en GitHub**

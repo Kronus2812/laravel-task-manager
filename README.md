@@ -1,4 +1,4 @@
-# ✅ Laravel Task Manager
+#  Laravel Task Manager
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -9,7 +9,7 @@ Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
 ### Autenticación
 - Sistema completo con **Laravel Breeze**
@@ -49,7 +49,7 @@ Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **PHP 8.2+**
 - **Laravel 11** (Framework)
@@ -140,7 +140,7 @@ Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional
 
 ---
 
-## 📊 Estructura de la Base de Datos
+##  Estructura de la Base de Datos
 
 ### Tabla: `users`
 | Campo | Tipo | Descripción |
@@ -166,7 +166,7 @@ Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ### Ejecutar todas las pruebas
 ```bash
@@ -185,7 +185,7 @@ php artisan test --coverage
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 laravel-task-manager/
@@ -223,7 +223,7 @@ laravel-task-manager/
 
 ---
 
-## 🎯 Uso de la Aplicación
+##  Uso de la Aplicación
 
 ### 1. Registro e Inicio de Sesión
 1. Accede a `/register` para crear una cuenta
@@ -260,7 +260,7 @@ laravel-task-manager/
 
 ---
 
-## 🔐 Seguridad
+##  Seguridad
 
 - **Autenticación**: Laravel Breeze con bcrypt para contraseñas
 - **Autorización**: Middleware para proteger rutas
@@ -271,7 +271,7 @@ laravel-task-manager/
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Error: "SQLSTATE[HY000] [1045] Access denied"
 **Solución**: Verifica las credenciales de MySQL en `.env`

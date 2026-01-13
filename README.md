@@ -5,7 +5,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-Gestor de tareas construido con **Laravel 11** como parte de mi plan profesional 2026. Permite a cada usuario gestionar sus tareas personales con autenticación completa, dashboard con estadísticas y filtros inteligentes por estado.
+Gestor de tareas construido con **Laravel 11**. Permite a cada usuario gestionar sus tareas personales con autenticación completa, dashboard con estadísticas y filtros inteligentes por estado.
 
 ---
 

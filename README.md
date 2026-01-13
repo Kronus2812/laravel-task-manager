@@ -271,23 +271,6 @@ laravel-task-manager/
 
 ---
 
-## 💡 Mejoras Futuras
-
-- [ ] Categorías de tareas
-- [ ] Etiquetas (tags)
-- [ ] Prioridades (Alta, Media, Baja)
-- [ ] Subtareas
-- [ ] Notificaciones por email
-- [ ] Recordatorios
-- [ ] Calendario integrado
-- [ ] Compartir tareas con otros usuarios
-- [ ] API REST
-- [ ] App móvil (Flutter/React Native)
-- [ ] Exportar tareas a PDF/Excel
-- [ ] Dark mode
-
----
-
 ## 🐛 Troubleshooting
 
 ### Error: "SQLSTATE[HY000] [1045] Access denied"
@@ -309,25 +292,13 @@ php artisan migrate:fresh
 
 ---
 
-## 🤝 Contribuciones
+## Desarrollador
 
-¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto:
+**Kronus2812**
 
-1. Fork el repositorio
-2. Crea una rama (`git checkout -b feature/mejora`)
-3. Haz commit de tus cambios (`git commit -m 'Agregar mejora'`)
-4. Push a la rama (`git push origin feature/mejora`)
-5. Abre un Pull Request
+Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
 
----
-
-## 👨‍💻 Autor
-
-**Tomas Martinez** ([@Kronus2812](https://github.com/Kronus2812))  
-📧 tomasmartinez2006@gmail.com  
-🌐 [Portafolio](https://tomascode.urbanlens.com.co/)
-
-Full Stack Developer | Laravel | PHP | JavaScript | React | MySQL
+Repositorio: [github.com/Kronus2812/Laravel-Task-Manager](https://github.com/Kronus2812/laravel-task-manager.git)
 
 ---
 
